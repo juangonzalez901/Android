@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034652380564",
+    "project_id": "techsolutions-eedb7",
+    "storage_bucket": "techsolutions-eedb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034652380564:android:2eba4b3a3f90dbaeac7381",
+        "android_client_info": {
+          "package_name": "com.example.bytebusters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbJDnGtvILJmDA5IDRynNhje3F8le2gMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
